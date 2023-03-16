@@ -44,12 +44,12 @@ body {
 }
 
 .hero-section {
-  background-image: url('../src/images/hero/hero-img.jpg');
+  background-image: url('../src/images/hero/background1.jpg');
   width: 100%;
   height: 110vh;
   object-fit: cover;
   background-size: cover;
-  background-position: center center;
+  background-position: center ;
 }
 
 .hero-text {
